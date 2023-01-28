@@ -1,4 +1,9 @@
-### Hi there 👋
+### Salut à tous ! 👋
+
+---
+
+Je m'appelle Nasreddine, développeur junior et **un grand passionné du du développement web.**
+
 
 <!--
 **xerox0213/xerox0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
