@@ -1,7 +1,7 @@
 <h1 align="center">Salut à tous 👋 ! Je m'appelle Nasreddine</h1>
 <h3 align="center">Un passionné de développement web et plus particulièrement du frontend</h3>
 
-🔭 Actuellement je travaille sur une [application de commande de nourriture](https://github.com/xerox0213/ordering-food-app)
+🔭 Actuellement je travaille sur une [application de messagerie instantanée](https://github.com/xerox0213/Nassenger)
 
 🌱 Pour l'instant j'apprend le **TypeScript**
 
