@@ -3,7 +3,7 @@
 
 🔭 Actuellement je travaille sur une [application de messagerie instantanée](https://github.com/xerox0213/Nassenger)
 
-🌱 Pour l'instant j'apprend le **TypeScript**
+🌱 Pour l'instant j'apprend **TypeScript**
 
 📫 Contactez moi sur **nasreddine021@gmail.com**
 
