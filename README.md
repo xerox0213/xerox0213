@@ -2,7 +2,7 @@
 <h3 align="center">I love everything to do with programming 💻</h3>
 
 <p>👨🏼‍🎓 For now i'm in computer science school !</p>
-<p>⏳ Processing ...</p>
+<p>⏳ In progress ...</p>
 
 <h3 align="left">Languages and tools :</h3>
 <p align="left">
