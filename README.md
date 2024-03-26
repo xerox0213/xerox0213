@@ -1,12 +1,12 @@
-<h1 align="center">Salut à tous 👋 ! Je m'appelle Nasreddine</h1>
-<h3 align="center">Un passionné de développement web et plus particulièrement du frontend</h3>
+<h1 align="center">Hi 👋🏼 i'm Nasreddine !</h1>
+<h3 align="center">I love everything to do with programming 💻</h3>
 
-🔭 Actuellement je travaille sur une [application de messagerie instantanée](https://github.com/xerox0213/Nassenger)
+<p>👨🏼‍🎓 For now i'm in computer science school !</p>
+<p>⏳ Processing ...</p>
 
-🌱 Pour l'instant j'apprend **TypeScript**
-
-📫 Contactez moi sur **nasreddine021@gmail.com**
-
-
-<h3 align="left">Langages et outils:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></p>
+<h3 align="left">Languages and tools :</h3>
+<p align="left">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/40/typescript.png" alt="typescript"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+</p>
